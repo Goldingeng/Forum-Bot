@@ -1,0 +1,5 @@
+aiogram == 3.4.1
+aiosqlite == 0.18.0
+sqlalchemy == 2.0.20
+apscheduler == 3.10.4
+aiogram_media_group
