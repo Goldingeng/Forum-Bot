@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ### Configuration
 1. Configure the parameters in the `config.py` file.
-2. Specify the channel link in ‘help_markup.py’. The bot works with 2 admin chats
+2. Specify the channel link in `help_markup.py`. The bot works with 2 admin chats
 1) The first chat receives all posts that the bot did not miss by automatic checking, with the ability to ban the user, or skip the post to the channel
 2) The second chat is a summary of posts that were posted thanks to the bot, with the ability to ban the one who posted a post bypassing the protection (the system did not detect existing violations)
 
